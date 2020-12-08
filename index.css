@@ -1,0 +1,73 @@
+h1 {
+    font-family: 'Chelsea Market', cursive;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0 40px;
+}
+
+header div {
+    display: inline-block;
+}
+
+nav {
+    margin-top: 30px;
+}
+
+nav a {
+    margin: 0 50px;
+}
+
+nav .link1, .link2, .link3 {
+    background: #FF764E;
+    padding: 7px;
+    border-radius: 8px;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+
+}
+
+.link1 {
+    background: #FF764E;
+    max-width: 20px;
+}
+
+.link2 {
+    background: #5ED3EB;
+    max-width: 20px;
+
+}
+
+.link3 {
+    background: #FFCD69;
+    max-width: 20px;
+}
+
+.img1 img {
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+    margin: 60px;
+}
+
+.info img {
+    height: 80px;
+    width: 80px;
+    margin: 0 292px;
+}
+
+
+.facts {
+    background: #DDB9A3;
+}
+
+.bottomlinks {
+    background: #F9E7DC;
+}
+
+.bold {
+    font-weight: bold;
+}
+
